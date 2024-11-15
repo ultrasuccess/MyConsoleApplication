@@ -11,7 +11,7 @@ namespace MyConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Привіт світ!");
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World!!!");
             Console.ReadKey();
         }
     }
